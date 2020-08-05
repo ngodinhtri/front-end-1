@@ -1,1 +1,1 @@
-This is a demo frontend project. Use git and firebase hosting. git log, git show, git diff
+This is a demo frontend project. Use git and firebase hosting. git log, git show, git diff, git check out, git reset
