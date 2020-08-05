@@ -1,0 +1,1 @@
+This is a demo frontend project. Use git and firebase hosting.
