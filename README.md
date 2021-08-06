@@ -1,1 +1,3 @@
-This is a demo frontend project. Use git and firebase hosting. git log, git show, git diff, git check out, git reset
+#A simple blog template
+
+Using html, css, owl carousel, js
